@@ -11,7 +11,26 @@ soal UTS Susulan
 ```python
 print("Uts Susulan")
 
-xangka=0
+a=0
+while True:
+    b = int(input("Masukkan Bilangan : "))
+    if (a < b):
+        a=b
+    if (b == 0):
+        break
+
+print("Bilangan terbesar adalah: ",a)
+```
+
+> Hasil run
+
+![hasil run](Foto/hasilrun.PNG)
+
+> Penggunaan while
+`Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan
+yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.`
+
+```python
 while True:
     xbilangan = int(input("Masukkan Bilangan : "))
     if (xangka < xbilangan):
@@ -19,25 +38,16 @@ while True:
     if (xbilangan == 0):
         break
 
-print("Bilangan terbesar adalah: ",xangka)
-print()
 ```
+> Penggunaan perintah break
+``
+`pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu misal jika kita menginput angka nol (0) maka input akan terhebti otomatis dan menampilkan hasil`
+=========================================================================
 
-> Hasil run
-![hasil run](Foto/hasilrun.PNG)
-
-
-> a=0
-<br>while :
-<br>input --> nama/yang akan di input b=input(int(masukan nilai : ))
-<br>if (yang akan di input ): Perulangan random : a=b --> untuk keterangan perulangan
-<br>if(hasil b==0)
-
-> penggunaan perintah break --> b==0 agar ketika memasukan 0 input random terhenti dan menapilkan hasil pada print bagian bawah
-
---------------------------------------------------------------------------
 Nama    : Sandi Bintara
 
 NIM     : 312010039
 
 Kelas   : TI 20 b1
+
+===========================================================================
