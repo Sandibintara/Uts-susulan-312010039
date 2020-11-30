@@ -43,14 +43,15 @@ while True:
         break
 print(xangka)
 
-maka perulangan terjadi pada data yang diinputkan<br>
-dengan ketentuan selesai apabila<br>
-angka nol pada keadaan tersebut<br>
+maka perulangan terjadi pada data yang diinputkan
+dengan ketentuan selesai apabila
+angka nol pada keadaan tersebut
 diinputkan dalam syntak berikut
 ```
 > Penggunaan perintah break
 
 `pernyataan break digunakan untuk menghentikan proses perulangan pada kondisi tertentu misal jika kita menginput angka nol (0) maka input akan terhebti otomatis dan menampilkan hasil`
+
 =========================================================================
 
 Nama    : Sandi Bintara
