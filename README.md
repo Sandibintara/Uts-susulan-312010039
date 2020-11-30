@@ -35,6 +35,6 @@ if(hasil b==0)
 > penggunaan perintah break --> b==0 agar ketika memasukan 0 input random terhenti dan menapilkan hasil pada print bagian bawah
 
 --------------------------------------------------------------------------
-Nama    : Sandi Bintara
-NIM     : 312010039
-Kelas   : TI 20 b1
+Nama    : Sandi Bintara/n
+NIM     : 312010039/n
+Kelas   : TI 20 b1/n
