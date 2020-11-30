@@ -7,6 +7,7 @@ soal UTS Susulan
 
 # Penjelasan
 
+> Berikut adalah penggunaan while untuk Perulangan Random
 ```python
 print("Uts Susulan")
 
@@ -21,16 +22,16 @@ while True:
 print("Bilangan terbesar adalah: ",xangka)
 print()
 ```
-> Berikut diatas adalah penggunaan while untuk Perulangan Random 
 
-![hasil run](Foto/hasilrun.PNG)
 > Hasil run
+![hasil run](Foto/hasilrun.PNG)
 
->a=0
-while :
-input --> nama/yang akan di input b=input(int(masukan nilai : ))
-if (yang akan di input ): Perulangan random : a=b --> untuk keterangan perulangan
-if(hasil b==0)
+
+> a=0
+<br>while :
+<br>input --> nama/yang akan di input b=input(int(masukan nilai : ))
+<br>if (yang akan di input ): Perulangan random : a=b --> untuk keterangan perulangan
+<br>if(hasil b==0)
 
 > penggunaan perintah break --> b==0 agar ketika memasukan 0 input random terhenti dan menapilkan hasil pada print bagian bawah
 
