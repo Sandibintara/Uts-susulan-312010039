@@ -23,13 +23,18 @@ print()
 ```
 > Berikut diatas adalah penggunaan stetment if dan Perulangan Random 
 
-```python
-a=0
+![hasil run](Foto/hasilrun.PNG)
+> Hasil run
+
+>a=0
 while :
 input --> nama/yang akan di input b=input(int(masukan nilai : ))
 if (yang akan di input ): Perulangan random : a=b --> untuk keterangan perulangan
 if(hasil b==0)
-break --> b==0 agar ketika memasukan 0 input random terhenti dan menapilkan hasil pada print bagian bawah
-Print("hasil ",b)
-```
 
+> penggunaan perintah break --> b==0 agar ketika memasukan 0 input random terhenti dan menapilkan hasil pada print bagian bawah
+
+--------------------------------------------------------------------------
+Nama    : Sandi Bintara
+NIM     : 312010039
+Kelas   : TI 20 b1
