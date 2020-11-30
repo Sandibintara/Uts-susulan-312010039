@@ -21,7 +21,7 @@ while True:
 print("Bilangan terbesar adalah: ",xangka)
 print()
 ```
-> Berikut diatas adalah penggunaan stetment if dan Perulangan Random 
+> Berikut diatas adalah penggunaan while untuk Perulangan Random 
 
 ![hasil run](Foto/hasilrun.PNG)
 > Hasil run
